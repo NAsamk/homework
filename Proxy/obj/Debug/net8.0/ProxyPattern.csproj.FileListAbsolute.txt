@@ -1,0 +1,14 @@
+C:\Users\ninos\source\repos\homework-14\Proxy\bin\Debug\net8.0\ProxyPattern.exe
+C:\Users\ninos\source\repos\homework-14\Proxy\bin\Debug\net8.0\ProxyPattern.deps.json
+C:\Users\ninos\source\repos\homework-14\Proxy\bin\Debug\net8.0\ProxyPattern.runtimeconfig.json
+C:\Users\ninos\source\repos\homework-14\Proxy\bin\Debug\net8.0\ProxyPattern.dll
+C:\Users\ninos\source\repos\homework-14\Proxy\bin\Debug\net8.0\ProxyPattern.pdb
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ProxyPattern.dll
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\refint\ProxyPattern.dll
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ProxyPattern.pdb
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ProxyPattern.genruntimeconfig.cache
+C:\Users\ninos\source\repos\homework-14\Proxy\obj\Debug\net8.0\ref\ProxyPattern.dll
